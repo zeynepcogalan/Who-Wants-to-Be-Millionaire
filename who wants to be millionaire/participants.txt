@@ -1,0 +1,13 @@
+Mehmet TARAK#27.03.2000#+90 535 1234567#Bagdat Caddesi;No=12;Kadikoy;Istanbul;Turkiye
+Canan KAYA#14.05.1982#+90 532 7654321#Menderes Caddesi;No=15;Buca;Izmir;Turkiye
+Ece YILMAZ#25.08.1960#+90 532 1928374#Kizilay Caddesi;No=230;Kizilay;Ankara;Turkiye
+Kazým HAYRAT#18.04.1982#+90 542 2827364#Kizilay Caddesi;No=230;Kizilay;Antalya;Turkiye
+Nihal ÖKSE#12.01.1997#+90 551 2317674#Kizilay Caddesi;No=230;Kizilay;Izmir;Turkiye
+Beren SAATÇÝ#29.02.1992#+90 532 2931848#Kizilay Caddesi;No=230;Kizilay;Izmir;Turkiye
+Hayri ÞEKER#21.10.1962#+90 532 3924274#Kizilay Caddesi;No=230;Kizilay;Kýrklareli;Turkiye
+Alper MEZE#11.06.1988#+90 546 2328374#Kizilay Caddesi;No=230;Kizilay;Izmir;Turkiye
+Nazan BAYAT#19.07.1978#+90 532 1928374#Kizilay Caddesi;No=230;Kizilay;Ankara;Turkiye
+Muharrem ERSOY#23.04.1991#+90 532 1926374#Kizilay Caddesi;No=230;Kizilay;Yalova;Turkiye
+Berat ALAT#08.08.1998#+90 532 1928374#Kizilay Caddesi;No=230;Kizilay;Karaman;Turkiye
+Nebahat ÇERKEZ#13.05.1958#+90 532 1928374#Kizilay Caddesi;No=230;Kizilay;Konya;Turkiye
+Burak ALICI#09.01.1983#+90 532 1928374#Kizilay Caddesi;No=230;Kizilay;Rize;Turkiye
